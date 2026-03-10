@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "Step to Shine",
+  "base_artist": "Mirea Sheltzs",
+  "createdAt": "2026-03-10T00:41:10.073811Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Step To The Music",
+      "artist": "Wagon Christ",
+      "has_synced": false,
+      "path": "select/01_Step_To_The_Music_Wagon_Christ.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "One Step to Fate",
+      "artist": "U.D.O.",
+      "has_synced": true,
+      "path": "select/02_One_Step_to_Fate_U.D.O..lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Step to Me",
+      "artist": "Thousand Foot Krutch",
+      "has_synced": true,
+      "path": "select/03_Step_to_Me_Thousand_Foot_Krutch.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "One Step to Salvation",
+      "artist": "Vader",
+      "has_synced": false,
+      "path": "select/04_One_Step_to_Salvation_Vader.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Step To Me",
+      "artist": "Thousand Foot Krutch",
+      "has_synced": true,
+      "path": "select/05_Step_To_Me_Thousand_Foot_Krutch.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "The Next Step to Regaining Control",
+      "artist": "Empire! Empire! (I Was a Lonely Estate)",
+      "has_synced": true,
+      "path": "select/06_The_Next_Step_to_Regaining_Control_Empire!_Empire!_(I_Was_a_Lonely_Estate).lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Ya'll Don't Wanna Step to Dis",
+      "artist": "Against Me!",
+      "has_synced": false,
+      "path": "select/07_Ya'll_Don't_Wanna_Step_to_Dis_Against_Me!.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Step To Me (7'' Mix)",
+      "artist": "Spice Girls",
+      "has_synced": true,
+      "path": "select/08_Step_To_Me_(7''_Mix)_Spice_Girls.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Step to Me",
+      "artist": "Spice Girls",
+      "has_synced": true,
+      "path": "select/09_Step_to_Me_Spice_Girls.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "First Step to Hell",
+      "artist": "Chaoseum",
+      "has_synced": false,
+      "path": "select/10_First_Step_to_Hell_Chaoseum.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Step to Me (7” mix)",
+      "artist": "Spice Girls",
+      "has_synced": true,
+      "path": "select/11_Step_to_Me_(7”_mix)_Spice_Girls.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "One Step To Slip",
+      "artist": "Hot Water Music",
+      "has_synced": false,
+      "path": "select/12_One_Step_To_Slip_Hot_Water_Music.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Step to Rhythm",
+      "artist": "Turnstile",
+      "has_synced": true,
+      "path": "select/13_Step_to_Rhythm_Turnstile.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Step to Shine",
+      "artist": "Mirea Sheltzs",
+      "has_synced": false,
+      "path": "select/pl_01_Step_to_Shine_Mirea_Sheltzs.txt"
+    }
+  ]
+}
